@@ -1,0 +1,1 @@
+These are some of the tutorial projects I've done to familairze myself with the Arduino IDE, as well as the electronics included with the Arduino.
